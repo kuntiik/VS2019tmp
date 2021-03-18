@@ -1,0 +1,13 @@
+Shift-alt-enter : enter full screen
+Alt-w b : disable sidebar tab
+ctrl+shift+f12 : toggle vsvim
+
+
+------ folding --------
+zo : open fold
+zc : close fold
+zM : close all
+zA : open all
+
+------ Other -----------
+Ctrl+Tab : cycling between tabs
